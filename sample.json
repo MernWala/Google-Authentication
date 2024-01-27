@@ -1,0 +1,42 @@
+{
+    "data": {
+        "provider": "google",
+        "sub": "100557434390288969455",
+        "id": "100557434390288969455",
+        "displayName": "Shivam Kumar Kashyap",
+        "name": {
+            "givenName": "Shivam",
+            "familyName": "Kumar Kashyap"
+        },
+        "given_name": "Shivam",
+        "family_name": "Kumar Kashyap",
+        "email_verified": true,
+        "verified": true,
+        "language": "en",
+        "email": "shivamkumarkashyap12@gmail.com",
+        "emails": [
+            {
+                "value": "shivamkumarkashyap12@gmail.com",
+                "type": "account"
+            }
+        ],
+        "photos": [
+            {
+                "value": "https://lh3.googleusercontent.com/a/AGNmyxZzFNSJdzoQJ49zuesNZl7htT5DtWpCnomfkOE3Iw=s96-c",
+                "type": "default"
+            }
+        ],
+        "picture": "https://lh3.googleusercontent.com/a/AGNmyxZzFNSJdzoQJ49zuesNZl7htT5DtWpCnomfkOE3Iw=s96-c",
+        "_raw": "{\n  \"sub\": \"100557434390288969455\",\n  \"name\": \"Shivam Kumar Kashyap\",\n  \"given_name\": \"Shivam\",\n  \"family_name\": \"Kumar Kashyap\",\n  \"picture\": \"https://lh3.googleusercontent.com/a/AGNmyxZzFNSJdzoQJ49zuesNZl7htT5DtWpCnomfkOE3Iw\\u003ds96-c\",\n  \"email\": \"shivamkumarkashyap12@gmail.com\",\n  \"email_verified\": true,\n  \"locale\": \"en\"\n}",
+        "_json": {
+            "sub": "100557434390288969455",
+            "name": "Shivam Kumar Kashyap",
+            "given_name": "Shivam",
+            "family_name": "Kumar Kashyap",
+            "picture": "https://lh3.googleusercontent.com/a/AGNmyxZzFNSJdzoQJ49zuesNZl7htT5DtWpCnomfkOE3Iw=s96-c",
+            "email": "shivamkumarkashyap12@gmail.com",
+            "email_verified": true,
+            "locale": "en"
+        }
+    }
+}
